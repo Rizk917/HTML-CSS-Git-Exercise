@@ -9,7 +9,7 @@
 .message--unread {
   border-left: 1px solid blue;
 }
-.message__time--old {
+.message:first-of-type {
   opacity: 0.2;
 }
 .message {
