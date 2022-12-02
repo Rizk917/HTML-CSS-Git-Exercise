@@ -6,6 +6,14 @@
 .countries--first .country--brazil {
   order: 5;
 }
-.countries--second:nth-child() {
-  order: 2;
+.countries--second .country--brazil {
+  order: 3;
+}
+.countries--second .country--uganda {
+  order: 4;
+}
+
+.countries--third {
+  flex-direction: row-reverse;
+  justify-content: flex-end;
 }
