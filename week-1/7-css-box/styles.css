@@ -2,5 +2,9 @@
 .pages__page {
   border: 1px solid #4491db;
   border-radius: 4px;
-  background: #fff;
+  background: #ffffff;
+}
+.countries {
+  padding: 15px;
+  padding-right: 10px;
 }
