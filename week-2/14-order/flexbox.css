@@ -3,6 +3,9 @@
 }
 
 /* Add your own CSS code below */
-.countries--first {
+.countries--first .country--brazil {
+  order: 5;
+}
+.countries--second:nth-child() {
   order: 2;
 }
